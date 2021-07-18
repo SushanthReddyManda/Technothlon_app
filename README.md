@@ -1,4 +1,4 @@
-jjpg![Technothlon Informtive App](https://socialify.git.ci/shridam1207/Techno_Flutter_App/image?forks=1&language=1&stargazers=1&theme=Light)
+![Technothlon Informtive App](https://socialify.git.ci/shridam1207/Techno_Flutter_App/image?forks=1&language=1&stargazers=1&theme=Light)
 # Technothlon Informative App
 
 ## What is this?
