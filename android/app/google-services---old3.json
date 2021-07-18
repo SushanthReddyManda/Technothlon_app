@@ -7,35 +7,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:180272981228:android:7e67fd72376ecbc72cf1c9",
-        "android_client_info": {
-          "package_name": "com.ample.flutter_app_technothlon"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "180272981228-n8ki0lh18f0ja402rsscegs7qge343gb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCNC5QhsvdNlfksYNrPuqUVQ0XoViip4hI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "180272981228-n8ki0lh18f0ja402rsscegs7qge343gb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:180272981228:android:d703ed7e2cf738e32cf1c9",
         "android_client_info": {
           "package_name": "com.example.flutter_app_technothlon"
